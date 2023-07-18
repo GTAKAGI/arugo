@@ -60,3 +60,4 @@ print(dist[X1][Y1])
 print(dist)
 
 #所定のマに届いた瞬間
+#tyu
